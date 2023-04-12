@@ -5,9 +5,7 @@
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoOficial&show_icons=true&theme=radical)
 
-
-### Tecnologias que eu uso no meu dia 
-
+### Tecnologias do Dia a Dia
 <div style="display: inline_block"><br/>
 <img align="" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img align="" alt="Html 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -16,6 +14,6 @@
 <img align="" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div><br/>
 
-Estou sempre atualizando meu conhecimento em programação para me manter competitivo no mercado de tecnologia.
 
-- [Entrar em contato](leonardoss2035@gmail.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoOficial&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
