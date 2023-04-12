@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-sousa-dos-santos)
 
-![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoOficial&show_icons=true&theme=radical)
+![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoOficial&show_icons=true&theme=radical)
 
 ### Tecnologias do Dia a Dia
 <div style="display: inline_block"><br/>
@@ -15,5 +15,5 @@
 </div><br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoOficial&demo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoOficial&demo)]()
 
